@@ -1,0 +1,7 @@
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 9\Delivery\Delivery\bin\Debug\Delivery.exe.config
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 9\Delivery\Delivery\bin\Debug\Delivery.exe
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 9\Delivery\Delivery\bin\Debug\Delivery.pdb
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 9\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 9\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 9\Delivery\Delivery\obj\Debug\Delivery.exe
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 9\Delivery\Delivery\obj\Debug\Delivery.pdb

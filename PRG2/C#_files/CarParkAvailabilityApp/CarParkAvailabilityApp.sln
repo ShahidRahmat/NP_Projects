@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarParkAvailabilityApp", "CarParkAvailabilityApp\CarParkAvailabilityApp.csproj", "{1A1F984E-F34A-4342-A399-A8A9BAC54C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1F984E-F34A-4342-A399-A8A9BAC54C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1F984E-F34A-4342-A399-A8A9BAC54C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1F984E-F34A-4342-A399-A8A9BAC54C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1F984E-F34A-4342-A399-A8A9BAC54C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E9D0E4-19E4-4DDC-99EE-1EB1AFB8E502}
+	EndGlobalSection
+EndGlobal

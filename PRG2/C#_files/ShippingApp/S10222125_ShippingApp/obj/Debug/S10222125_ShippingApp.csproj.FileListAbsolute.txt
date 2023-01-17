@@ -1,0 +1,7 @@
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 8\S10222125_ShippingApp\S10222125_ShippingApp\bin\Debug\S10222125_ShippingApp.exe.config
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 8\S10222125_ShippingApp\S10222125_ShippingApp\bin\Debug\S10222125_ShippingApp.exe
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 8\S10222125_ShippingApp\S10222125_ShippingApp\bin\Debug\S10222125_ShippingApp.pdb
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 8\S10222125_ShippingApp\S10222125_ShippingApp\obj\Debug\S10222125_ShippingApp.csproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 8\S10222125_ShippingApp\S10222125_ShippingApp\obj\Debug\S10222125_ShippingApp.csproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 8\S10222125_ShippingApp\S10222125_ShippingApp\obj\Debug\S10222125_ShippingApp.exe
+C:\Users\shahi\OneDrive\Desktop\Files\School\PRG2\Week 8\S10222125_ShippingApp\S10222125_ShippingApp\obj\Debug\S10222125_ShippingApp.pdb
