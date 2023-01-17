@@ -1,0 +1,7 @@
+C:\Users\shahi\OneDrive\Desktop\Files\School\DB\Assignment\Database Creation\Database Creation\bin\Debug\Database Creation.exe.config
+C:\Users\shahi\OneDrive\Desktop\Files\School\DB\Assignment\Database Creation\Database Creation\bin\Debug\Database Creation.exe
+C:\Users\shahi\OneDrive\Desktop\Files\School\DB\Assignment\Database Creation\Database Creation\bin\Debug\Database Creation.pdb
+C:\Users\shahi\OneDrive\Desktop\Files\School\DB\Assignment\Database Creation\Database Creation\obj\Debug\Database Creation.csproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\Files\School\DB\Assignment\Database Creation\Database Creation\obj\Debug\Database Creation.csproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\Files\School\DB\Assignment\Database Creation\Database Creation\obj\Debug\Database Creation.exe
+C:\Users\shahi\OneDrive\Desktop\Files\School\DB\Assignment\Database Creation\Database Creation\obj\Debug\Database Creation.pdb
